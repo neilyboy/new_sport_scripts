@@ -3,7 +3,8 @@
 
 This tool was written to help with OBS studio layouts. I may call for a single 'home.png' or 'away.png' multiple times for diffent scenes. This allows me to source all of the images in one directory. The goal was to allow for quick additions to new teams that may pop up in a tournament. I am able to quickly source a team logo (upscale it if needed - [Upscayl](https://www.upscayl.org/)) and export as a transparent 500x500px image.
 
-Files must be named city-mascot.png (I have exported all team logos as 500x500px PNG files - Example: "Metamora-Redbirds.png")
+> [!NOTE]
+> Files must be named city-mascot.png (I have exported all team logos as 500x500px PNG files - Example: "Metamora-Redbirds.png")
 Run script from root of team logo directory. 
 Two folders are created /logo as well as /text
 
