@@ -6,6 +6,8 @@ This tool was written to help with OBS studio layouts. I may call for a single '
 > [!NOTE]
 > Files must be named city-mascot.png (I have exported all team logos as 500x500px PNG files - Example: "Metamora-Redbirds.png")
 Run script from root of team logo directory. 
+
+
 Two folders are created /logo as well as /text
 
 ### File Outputs
@@ -20,3 +22,5 @@ Two folders are created /logo as well as /text
 - away_color.png
 - home.png
 - home_color.png
+
+I call to these text files in many places in my scenes/layouts. Again the goal was to allow for quick and easy ability to add a team quickly with little effort.
