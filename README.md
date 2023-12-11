@@ -19,13 +19,13 @@ Run script from root of team logo directory.
 Two folders are created /logo as well as /text
 
 ### File Outputs
-**\text** 
+**\ text** 
 - away_team_city.txt
 - away_team_mascot.txt
 - home_team_city.txt
 - home_team_mascot.txt
   
-**\logo**
+**\ logo**
 - away.png
 - away_color.png
 - home.png
