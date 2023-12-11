@@ -8,5 +8,11 @@ Two folders are created /logo as well as /text
 ### File Outputs
 text directory: 
 - away_team_city.txt
-- away_team_mascot.txt, home_team_city.txt and home_team_mascot.txt
-Inside of the logo directory you will output: away.png, away_color.png, home.png and home_color.png
+- away_team_mascot.txt
+- home_team_city.txt
+- home_team_mascot.txt
+logo directory:
+- away.png
+- away_color.png
+- home.png
+- home_color.png
