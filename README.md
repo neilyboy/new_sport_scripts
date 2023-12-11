@@ -5,8 +5,8 @@ Files must be named city-mascot.png (I have exported all team logos as 500x500px
 Run script from root of team logo directory. 
 Two folders are created /logo as well as /text
 
-###File Outputs
+### File Outputs
 text directory: 
--away_team_city.txt
--away_team_mascot.txt, home_team_city.txt and home_team_mascot.txt
+- away_team_city.txt
+- away_team_mascot.txt, home_team_city.txt and home_team_mascot.txt
 Inside of the logo directory you will output: away.png, away_color.png, home.png and home_color.png
