@@ -21,11 +21,15 @@ Two folders are created /logo as well as /text
 
 ### File Outputs
 
-| \ text | Center-aligned | Right-aligned |
-| :---         |     :---:      |          ---: |
-| away_team_city.txt   | git status     | git status    |
-| git diff     | git diff       | git diff      |
+| \ text | Center-aligned |
+| :---         |     :---:      |
+| xxxx_team_city.txt   | Town or City Name (Everything before the "-" in the filename     |
+| xxxx_team_mascot.txt     | everything after the "-" in the filename       |
 
+| \logo | Center-aligned |
+| :---         |     :---:      |
+| xxxx_team_city.txt   | Town or City Name (Everything before the "-" in the filename     |
+| xxxx_team_mascot.txt     | everything after the "-" in the filename       |
 
 
 ### File Outputs
