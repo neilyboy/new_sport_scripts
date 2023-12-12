@@ -1,3 +1,5 @@
+<details>
+<summary>Team Selection Tool</summary>
 ## Team Selection
 <p align="center">
 <img src="https://github.com/neilyboy/new_sport_scripts/assets/9546844/9b1c1ba0-3125-4c1b-b959-3c6072bf3425" />
@@ -32,3 +34,5 @@ Two folders are created a "logo" and "text" directory
 | :---         |     :---:      |
 | xxxx.png   | home or away png of selected team logo     |
 | xxxx_color.png     | home or away 10x10 png image of selected team color       |
+</details>
+
