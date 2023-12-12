@@ -21,15 +21,15 @@ Two folders are created /logo as well as /text
 
 ### File Outputs
 
-| \ text | Center-aligned |
+| \text |  |
 | :---         |     :---:      |
-| xxxx_team_city.txt   | Town or City Name (Everything before the "-" in the filename     |
-| xxxx_team_mascot.txt     | everything after the "-" in the filename       |
+| xxxx_team_city.txt   | Town or City Name (Everything before the "-" in the filename)     |
+| xxxx_team_mascot.txt     | School Mascot (Everything after the "-" in the filename)       |
 
-| \logo | Center-aligned |
+| \logo |  |
 | :---         |     :---:      |
-| xxxx_team_city.txt   | Town or City Name (Everything before the "-" in the filename     |
-| xxxx_team_mascot.txt     | everything after the "-" in the filename       |
+| xxxx.png   | home or away png of selected team logo     |
+| xxxx_color.png     | home or away 10x10 png image of selected team color       |
 
 
 ### File Outputs
