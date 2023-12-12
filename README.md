@@ -33,10 +33,6 @@ Two folders are created a "logo" and "text" directory
 
 > I typically have a directory for each sport (football, basketball, etc.) inside that diretory I typically create a directory called 'Teams' which is where I store all of my png team logos.
 > This file must be ran from the root of this directory (where to store your .png logo files)
-
-
-> > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
 > Files must be named city-mascot.png (I have exported all team logos as 500x500px PNG files - Example: "Metamora-Redbirds.png")
 
 </details>
