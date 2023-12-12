@@ -20,6 +20,15 @@ It will then allow the user to select a team color. I use this in a few differen
 Two folders are created /logo as well as /text
 
 ### File Outputs
+
+| \ text | Center-aligned | Right-aligned |
+| :---         |     :---:      |          ---: |
+| away_team_city.txt   | git status     | git status    |
+| git diff     | git diff       | git diff      |
+
+
+
+### File Outputs
 **\ text** 
 - away_team_city.txt
 - away_team_mascot.txt
