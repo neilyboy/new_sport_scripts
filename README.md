@@ -1,6 +1,7 @@
 <details>
 <summary>Team Selection Tool</summary>
-<p align=center>
+  
+<p align="center">
 <img src="https://private-user-images.githubusercontent.com/9546844/289658170-9b1c1ba0-3125-4c1b-b959-3c6072bf3425.png" />
 </p>
 
