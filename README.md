@@ -2,7 +2,7 @@
 <summary>Team Selection Tool</summary>
   
 <p align="center">
-<img src="https://private-user-images.githubusercontent.com/9546844/289658170-9b1c1ba0-3125-4c1b-b959-3c6072bf3425.png" />
+<img src="https://github.com/neilyboy/new_sport_scripts/assets/9546844/ec6b4e16-9a84-469e-b78f-e36c6c9ec917" />
 </p>
 
 > [!NOTE]
