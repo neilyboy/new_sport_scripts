@@ -4,7 +4,7 @@
 <p align="center">
 <img src="https://github.com/neilyboy/new_sport_scripts/assets/9546844/9b1c1ba0-3125-4c1b-b959-3c6072bf3425" />
 </p>
-  
+
 > [!NOTE]
 > I typically have a directory for each sport (football, basketball, etc.) inside that diretory I typically create a directory called 'Teams' which is where I store all of my png team logos.
 > This file must be ran from the root of this directory (where to store your .png logo files)
