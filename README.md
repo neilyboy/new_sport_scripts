@@ -32,5 +32,3 @@ Two folders are created a "logo" and "text" directory
 | :---         |     :---:      |
 | xxxx.png   | home or away png of selected team logo     |
 | xxxx_color.png     | home or away 10x10 png image of selected team color       |
-
-I call to these text files in many places in my scenes/layouts. Again the goal was to allow for quick and easy ability to add a team quickly with little effort.
