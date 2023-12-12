@@ -5,7 +5,6 @@
 <img src="https://github.com/neilyboy/new_sport_scripts/assets/9546844/ec6b4e16-9a84-469e-b78f-e36c6c9ec917" />
 </p>
 
-> [!NOTE]
 > I typically have a directory for each sport (football, basketball, etc.) inside that diretory I typically create a directory called 'Teams' which is where I store all of my png team logos.
 > This file must be ran from the root of this directory (where to store your .png logo files)
 > Files must be named city-mascot.png (I have exported all team logos as 500x500px PNG files - Example: "Metamora-Redbirds.png")
