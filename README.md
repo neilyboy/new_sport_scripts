@@ -17,7 +17,7 @@ It will then allow the user to select a team color. I use this in a few differen
 - away_color.png
 - home_color.png
 
-Two folders are created /logo as well as /text
+Two folders are created a "logo" and "text" directory
 
 ### File Outputs
 
@@ -30,19 +30,5 @@ Two folders are created /logo as well as /text
 | :---         |     :---:      |
 | xxxx.png   | home or away png of selected team logo     |
 | xxxx_color.png     | home or away 10x10 png image of selected team color       |
-
-
-### File Outputs
-**\ text** 
-- away_team_city.txt
-- away_team_mascot.txt
-- home_team_city.txt
-- home_team_mascot.txt
-  
-**\ logo**
-- away.png
-- away_color.png
-- home.png
-- home_color.png
 
 I call to these text files in many places in my scenes/layouts. Again the goal was to allow for quick and easy ability to add a team quickly with little effort.
