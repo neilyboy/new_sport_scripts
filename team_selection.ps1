@@ -125,11 +125,11 @@ $okButton.Add_Click({
 
 
         # Set-Content with the full path to the text files
-        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "home_team_city.txt") -Value $homeCity -Force
-        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "home_team_mascot.txt") -Value $homeMascot -Force
+        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "home_team_city.txt") -Value $homeCity -Force -Encoding UTF8
+        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "home_team_mascot.txt") -Value $homeMascot -Force -Encoding UTF8
 
-        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "away_team_city.txt") -Value $awayCity -Force
-        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "away_team_mascot.txt") -Value $awayMascot -Force
+        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "away_team_city.txt") -Value $awayCity -Force -Encoding UTF8
+        Set-Content -Path (Join-Path -Path $textFolderPath -ChildPath "away_team_mascot.txt") -Value $awayMascot -Force -Encoding UTF8
 
         # Copy-Item with the full path to the image files
         Copy-Item -Path $selectedHome -Destination (Join-Path -Path $logoFolderPath -ChildPath "home.png") -Force
